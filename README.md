@@ -1,2 +1,2 @@
 # WikipediaConnections
-Scripts used to  give an overview of a topic of interest
+Scripts used to give an overview of a topic of interest
